@@ -4,7 +4,7 @@ You can find a link to the article [here](https://angular-academy.com/angular-ar
 
 
 
-# AngularArchtectureBestPractices
+# Angular Architecture Best Practices
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
